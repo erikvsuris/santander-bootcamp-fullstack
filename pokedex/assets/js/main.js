@@ -8,7 +8,7 @@ function pokemonToListItem(pokemon) {
         <li class="pokemon">
             <span class="number">${pokemon.number}</span>
             <span class="name">${pokemon.name}</span>
-git p
+
             <div class="detail">
                 <ol class="types">
                     
